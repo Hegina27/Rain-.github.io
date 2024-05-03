@@ -19,8 +19,11 @@ audio {
 p{font-size: 130%;
 
 }
-div{
-background-color:#82A0AA;
+.lyrics-container{
+background-color:rgba(255,255,255,0.5)
 padding: 100px;
+    
+    
+    
 
 }
